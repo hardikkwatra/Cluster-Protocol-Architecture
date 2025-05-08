@@ -181,5 +181,4 @@ flowchart TD
 
 ---
 
-For questions or contributions, feel free to open issues or submit pull requests.
 
